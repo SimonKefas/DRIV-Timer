@@ -1,0 +1,6 @@
+{
+    "name" : "DR1V Timer",
+    "display" : "standalone",
+    "start_url" : "/",
+    "scope" : "/"
+}
