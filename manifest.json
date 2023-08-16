@@ -1,6 +1,6 @@
 {
     "name" : "DR1V Timer",
     "display" : "standalone",
-    "start_url" : "/",
-    "scope" : "/"
+    "start_url" : "/DRIV-Timer",
+    "scope" : "/DRIV-Timer"
 }
