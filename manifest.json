@@ -1,6 +1,6 @@
 {
     "name" : "DR1V Timer",
     "display" : "standalone",
-    "start_url" : "/DRIV-Timer",
+    "start_url" : "https://simonkefas.github.io/DRIV-Timer/",
     "scope" : "/DRIV-Timer"
 }
